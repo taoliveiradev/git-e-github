@@ -11,7 +11,7 @@ Repositório para armazenar resumos Git e GitHub do Curso Versionamento de Códi
 ##💻Resumo das Aulas
 | Aulas | Resumos |
 | ----- | ------- |
-| Gravando Alterações no Repositório Local | [Resumos](#) |
+| Versionamento de Código com Git e GitHub | [Resumos](docs/Versionamento%20de%20Código%20com%20Git%20e%20GitHub.pdf) |
 
 ```
 Git Init
